@@ -1,2 +1,1 @@
-# Movie_Recommendation_Project
-Movie Recommendation using Collaborative Filtering 
+This project is a simple demonstration of Collaborative filtering in the context of Movie Recommendations.
